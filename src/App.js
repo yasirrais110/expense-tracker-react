@@ -7,6 +7,8 @@ import {AddTransaction} from './components/AddTransaction'
 import {GlobalProvider} from './context/GlobalState'
 import './App.css';
 
+//app js
+
 function App() {
   return (
     <GlobalProvider>
